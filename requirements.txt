@@ -1,0 +1,15 @@
+asgiref==3.2.3
+beautifulsoup4==4.8.1
+certifi==2019.9.11
+chardet==3.0.4
+Django==3.0.2
+googletrans==2.4.0
+idna==2.8
+pyTelegramBotAPI==3.6.6
+pytz==2019.3
+requests==2.22.0
+six==1.13.0
+soupsieve==1.9.5
+sqlparse==0.3.0
+telegraph==1.4.0
+urllib3==1.25.7
